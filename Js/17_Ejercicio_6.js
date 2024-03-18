@@ -14,3 +14,4 @@ if (num1 % 2 == 0) {
 } else if (num1 % 2 != 0) {
     console.log("El numero " + num1 + " es impar");
 }
+
